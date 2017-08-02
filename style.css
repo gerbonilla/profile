@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700|Source+Sans+Pro');
+
+body {
+  font-family: 'Raleway';
+  margin: 0;
+  background-color: #E6E6E6;
+}
+
+h1, h2, h3 {
+  font-family: 'Source Sans Pro';
+  color: #596475;
+}
+
+h2 {
+  margin-top: 3px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  color: #9AADBF;
+  font-size: 28px;
+  margin-top: 3px;
+  margin-bottom: 20px;
+}
+
+p {
+  color: #8D909B;
+}
+
+.avatar {
+  width: 250px;
+  border: 5px solid #9AADBF;
+  border-radius: 50%;
+}
+
+.card {
+  width: 600px;
+  padding: 35px;
+  border-radius: 6px;
+  box-shadow: 4px 4px 15px rgba(1,1,1,0.08);
+  margin: 26px auto;
+  text-align: center;
+  background-color: rgb(245,245,245);
+}
+
+.movie-avatar {
+  width:300px;
+  border-radius: 30px;
+}
+
+.movies td {
+  padding: 25px 0px ;
+  text-align: left;
+}
+
+.movies td > h2, td > p {
+  padding-left: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: #8D909B;
+}
+
+.btn{
+  background: #9AADBF;
+  padding: 15px 20px;
+  color: #e6e6e6;
+  border-radius: 26px;
+  font-size: 16px;
+}
+
+.btn:hover {
+  background: #97A7B3;
+  transition: background-color 300ms;
+}
+
+.list li {
+  display: inline-block;
+  padding: 0px 35px;
+}
+
+.list {
+  display: inline-block;
+  padding: 0px 0px;
+  color: #9AADBF;
+}
+
+.social-media a:hover {
+  color: #596475;
+  transition: color 300ms;
+}
+
+.social-media a {
+  color: #9AADBF;
+}
+
+
+
+
+
+
+
